@@ -70,5 +70,5 @@ venv.bak/
 .idea/
 
 # Model files 
-*.pkl
-*.h5
+.pkl
+.h5
